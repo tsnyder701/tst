@@ -1,0 +1,34 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(C:\Users\Tim\src\tst\hello-world\src\main\scala\MainSpec.scala, C:\Users\Tim\src\tst\hello-world\src\main\scala\Main.scala, C:\Users\Tim\src\tst\hello-world\src\main\scala\PriceOptimizer.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(C:\Users\Tim\src\tst\priceopt-scala\src\main\scala\Main.scala, C:\Users\Tim\src\tst\priceopt-scala\src\main\scala\PriceOptimizer.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\DuplicateRateCodeMappingException.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\PriceOptimizer.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\Rate$.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\BestGroupPrice.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\PriceOptimizer$.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\Main$delayedInit$body.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\Main.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\Rate.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\MissingRateGroupForRateCodeException.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\Main$.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\CabinPrice.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\BestGroupPrice$.class, C:\Users\Tim\src\tst\hello-world\target\scala-2.12\classes\com\tst\priceopt\CabinPrice$.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.tst.priceopt.Rate, com.tst.priceopt.CabinPrice, com.tst.priceopt.DuplicateRateCodeMappingException, com.tst.priceopt.PriceOptimizer, Main, com.tst.priceopt.MissingRateGroupForRateCodeException, com.tst.priceopt.BestGroupPrice)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(C:\Users\Tim\src\tst\hello-world\src\main\scala\PriceOptimizer.scala, C:\Users\Tim\src\tst\hello-world\src\main\scala\Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.tst.priceopt.Rate, com.tst.priceopt.CabinPrice, com.tst.priceopt.DuplicateRateCodeMappingException, com.tst.priceopt.PriceOptimizer, Main, com.tst.priceopt.MissingRateGroupForRateCodeException, com.tst.priceopt.BestGroupPrice)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(C:\Users\Tim\src\tst\priceopt-scala\src\main\scala\Main.scala, C:\Users\Tim\src\tst\priceopt-scala\src\main\scala\PriceOptimizer.scala, C:\Users\Tim\src\tst\hello-world\src\main\scala\PriceOptimizer.scala, C:\Users\Tim\src\tst\hello-world\src\main\scala\Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 2 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to C:\Users\Tim\src\tst\priceopt-scala\target\scala-2.12\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 3473bf48 for Scala compiler version 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files\Java\jre1.8.0_171\lib\resources.jar;C:\Program Files\Java\jre1.8.0_171\lib\rt.jar;C:\Program Files\Java\jre1.8.0_171\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_171\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_171\lib\jce.jar;C:\Program Files\Java\jre1.8.0_171\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_171\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_171\classes;C:\Users\Tim\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Tim\src\tst\priceopt-scala\target\scala-2.12\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.223217976 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

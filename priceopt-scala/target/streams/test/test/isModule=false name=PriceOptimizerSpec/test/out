@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPriceOptimizerSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPriceOptimizer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should determine the lowest-priced cabin by cabinCode and rateGroup[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return an empty Seq if given empty Seqs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should ignore unused Rates[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw a DuplicateRateCodeMappingException if two or more Rates have the same rateCode[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw a MissingGroupForRateCodeException if a CabinPrice includes a rateCode not included in a Rate[0m[0m
